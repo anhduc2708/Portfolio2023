@@ -53,11 +53,11 @@ type Props = {
 
         <footer className="sticky bottom-5 w-full ">
           <div className="flex item-end justify-end pr-10 ">
-            <Link href= "#hero">
-              <img
-              className='h-10 w-10 rounded-full filter grayscale hover:grayscale-0 cursor-pointer' 
-              src="https://cdn.discordapp.com/attachments/1072170194912424038/1072470609847656548/A4A13F1E-77E7-4C22-B0AB-073BB4D8EB7D.jpg" alt="" />
-            </Link>
+      <Link href= "#hero">
+            <img
+            className='h-10 w-10 rounded-full filter grayscale hover:grayscale-0 cursor-pointer' 
+            src="https://cdn.discordapp.com/attachments/1072170194912424038/1072470609847656548/A4A13F1E-77E7-4C22-B0AB-073BB4D8EB7D.jpg" alt="" />
+      </Link>
           </div>
         </footer>
   
